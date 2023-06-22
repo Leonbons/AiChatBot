@@ -1,0 +1,31 @@
+{"intents": [
+    {"tag": "greeting",
+    "patterns": ["hello", "hi", "hey", "good day", "what's up", "greetings", "how it is going?"],
+    "responses": ["Hello!", "Hey!", "What can i do for you?" ]
+    },
+
+    {"tag": "goodbye",
+    "patterns": ["hello", "hi", "hey", "good day", "what's up", "greetings", "how it is going?"],
+    "responses": ["Hello!", "Hey!", "What can i do for you?" ]
+    },
+    {"tag": "age",
+    "patterns": ["how old are you?", "how old are you", "how old", "When are you born", "what's your age", "how old are u", "tell me your age"],
+    "responses": ["He who devolped this is 18 years old", "My owner is 18 years old", "I started to be coded 2023-06-21, but this line is written 2023-06-22"]
+    },
+    {"tag": "name",
+    "patterns": ["what is your name?", "What should i call you", "what's your name", "whats ur name", "what's up", "greetings", "how it is going?"],
+    "responses": ["Hello!", "Hey!", "What can i do for you?" ]
+    },
+    {"tag": "shop",
+    "patterns": ["hello", "hi", "hey", "good day", "what's up", "greetings", "how it is going?"],
+    "responses": ["Hello!", "Hey!", "What can i do for you?" ]
+    },
+    {"tag": "hours",
+    "patterns": ["hello", "hi", "hey", "good day", "what's up", "greetings", "how it is going?"],
+    "responses": ["Hello!", "Hey!", "What can i do for you?" ]
+    },
+    {"tag": "stocks",
+    "patterns": ["What stocks do I own", "How are my shares", "what companies am I investing in"],
+    "responses": ["Hello!", "Hey!", "What can i do for you?" ]
+    }
+]}
